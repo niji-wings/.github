@@ -4,7 +4,7 @@ A community team developing human-powered aircraft
 
 ## Projects
 - airplane-motion-sim : 飛行機の運動シミュレーション  
-- wingspar_designer : 主翼スパー強度解析ツール  
+- wingspar-designer : 主翼スパー強度解析ツール  
 
 ## History
 - 設立: 2024年4月  
